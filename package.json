@@ -16,7 +16,7 @@
     "@shopify/polaris": "^4.21.0",
     "@shopify/polaris-icons": "^3.10.0",
     "axios": "^0.19.2",
-    "next": "^9.3.4",
+    "next": "^13.0.3",
     "next-images": "^1.4.0",
     "qrcode.react": "^1.0.0",
     "react": "^16.13.1",
